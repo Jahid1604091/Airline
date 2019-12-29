@@ -1,0 +1,58 @@
+html{
+    scroll-behavior: smooth;
+}
+
+.bg{
+    width: 950px;
+    box-shadow: 0 2px 9px 2px;
+    border-radius: 5px;
+    margin-top: -10px;
+}
+h1,h6,p{
+    color: #007354;
+    padding: 15px;
+}
+
+.bookInfo{
+    background-color: #007354;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+    width: 800px;
+    margin-left: 10px;
+}
+
+form{
+    margin-left: 30px;
+}
+
+input {
+    margin-left: 30px;
+}
+
+input[type="button"]
+{
+    margin-left: 200px;
+    background-color: #99CCCC;
+    color: white;
+    font-style: bold;
+    border-radius: 5px;
+}
+
+.note{
+    font-style: italic;
+    margin-left: 100px;
+    
+}
+
+.refund{
+    background-color: #E8F2E6;
+}
+
+
+footer{
+    margin-top: 300px;
+    margin-left: -15px;
+    border: none;
+    width: 950px;
+}

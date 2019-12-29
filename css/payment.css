@@ -1,0 +1,88 @@
+
+.main{
+    height: 1000px;
+}
+.outer{
+    height: 950px;
+}
+
+.PNR{
+    background-color: #A0A8BA;
+    width: 600px;
+    margin-left: 120;
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+    
+}
+
+ h5{
+    background-color: darkgrey;
+    width: 600px;
+    margin-left: 120px;
+    border-top-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    margin-top: 40px;
+    border-bottom-style: outset;
+    color: white;
+    
+}
+
+.bdt{
+    color: black;
+   font-style: oblique;  
+}
+
+.type p{
+    font-style: oblique;
+    text-align: center;
+}
+
+.warning, p{
+    text-align: justify;
+    margin-left: 20px;
+    font-size: 14px;
+}
+
+.warning{
+    color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

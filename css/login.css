@@ -1,0 +1,14 @@
+
+#white-background{
+    opacity: .2;
+}
+
+#dlg-body p{
+    padding: 5px;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+input{
+    width: 320px;
+}

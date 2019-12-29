@@ -1,0 +1,84 @@
+.heading{
+    width: 90%;
+    background-color: #E5DDB8;
+    margin-left: 40px;
+    border-radius: 10px;
+}
+
+.lc img,p{
+padding: 20px
+}
+
+h5,p{
+    margin-left: 40px;
+}
+h5{
+    color: ;
+}
+.links{
+    margin-top: 100px;
+    margin-left: 40px;
+    margin-right: 50px;
+    background-color:#E5DDB8;
+    border-radius: 10px;
+    padding: 15px;
+    
+}
+.links a,small{
+    margin-left: 20px;
+}
+
+.ticket{
+    margin-left: 150px;
+}
+
+.level{
+    margin-top: 80px;
+    margin-left: 40px;
+}
+
+.table{
+    width: 80%;
+    margin-left: 90px;
+    border: 2px solid #665300;
+}
+
+tbody td{
+    text-align: justify;
+    
+    font-size: 14px;
+    
+}
+ tbody td i{
+    font-size: 20px;
+    
+}
+
+.green{
+    background-color: green;
+    color: white;
+}
+
+.silver{
+    background-color: silver;
+}
+
+.gold{
+    background-color: goldenrod;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,166 @@
+html{
+    scroll-behavior: smooth;
+}
+/*------BODY PAART----*/
+.container{
+    width: 960px; 
+}
+
+.main{
+    border-right: 1px solid;
+    margin-top: -20px;
+    background-color: white;
+    border-radius: 5px;
+    color: #006A4E;
+}
+
+h5{
+    border-bottom: 2px solid gray;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: 'Righteous', cursive;
+}
+
+.type,.from,.to{
+    font-size: 18px;
+    color: darkblue;
+    font-family: 'Exo 2', sans-serif;
+}
+
+.text{
+    font-style: oblique;
+    color: #006A4E;
+    font-weight: 500;
+}
+
+
+/*------Table------*/
+
+.tblbg{
+   background-color: antiquewhite; 
+}
+
+
+
+table, th, td {
+    border: 1px solid black;
+    padding: 10px 10px 10px;
+    
+    text-align: center;
+    
+    
+}
+
+table{
+    margin-top: 20px;
+    width: 900px;
+ 
+}
+
+
+
+
+.selected {
+    background-color: cadetblue;
+    color: #FFF;
+    transition: 1s ease;
+}
+/*---footer--*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

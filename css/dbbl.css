@@ -1,0 +1,197 @@
+
+*{margin: 0; padding: 0; scroll-behavior: smooth;}
+.total{
+    background-color: white;
+    width: 700px;
+    margin: 0 auto;
+    margin-top: -10px;
+    
+}
+
+.logo img{
+    float: left;
+    margin:-10px 10px 0 0;
+}
+
+.logo2 img{
+    color: white;
+    float: right;
+    margin-top: -76px;
+    background-image: linear-gradient(-90deg, rgba(150, 190, 226, 0.93), white);
+    
+}
+
+.heading-text{
+    line-height: 5px;
+    margin-top: 10px;
+}
+
+.heading-text p{
+    margin-left: 360px;
+    font-size: 20px;
+    
+    
+}
+
+.nexus{
+    text-align: center;
+    color: blue;
+    border-bottom: 10px solid blue;
+    border-top: 10px solid blue;
+   
+}
+
+
+
+
+
+.content p{
+    text-align: center;
+}
+
+.content .logo img{
+    float: left;
+    margin-left: 30px;
+}
+
+
+.content .verify img{
+    float: right;
+   margin-top: -155px;
+    margin-right: 10px;
+   
+}
+
+.info{
+    text-align: center;
+    width: 360px;
+   
+    margin-left: 170px;
+   
+}
+.info .pin{
+margin-left: 91px;
+    margin-right: 5px;
+}
+.info .ma{
+
+    margin-right: 5px;
+}
+
+button{
+    width: 100px;
+    color: darkblue;
+    font-weight: bolder;
+    border-left: 5px solid;
+    border-right: 5px solid;
+    border-radius: 4px;
+    box-shadow: 2px 5px 3px gray;
+    
+
+font-family: 'Federo', sans-serif;
+   
+}
+
+button:hover{
+    width: 110px;
+ 
+}
+
+.btn1{
+    margin-left: 20px;
+}
+.bottom-part{
+    border-top: 10px solid blue;
+    text-align: center;
+    line-height: 10px;
+    padding: 10px 0;
+  
+
+font-family: 'Noto Serif', serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

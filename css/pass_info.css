@@ -1,0 +1,63 @@
+html{
+    scroll-behavior: smooth;
+}
+
+.btn-1,.btn-back{
+    margin-top: 40px;
+    width: 160px;
+    height: 30px;
+}
+.btn-1:hover,.btn-back:hover{
+    border: 2px solid yellow;
+    
+}
+
+.outer{
+    height: 350px;
+}
+
+.title{
+    margin-top: 20px;
+    
+    margin-right: 10px
+}
+
+.abc{
+   text-align: justify;
+    margin-left: 50px;
+    margin-right: 10px;
+}
+.pass{
+    margin-right: 90px;
+}
+
+
+.eml{
+    width: 372px;
+     margin-left: 88px;
+}
+form{
+    font-size: 14px;
+    font-weight: 500;
+}
+.cc{
+    margin-left: 88px;
+    width: 152px;
+    margin-right: 65px;
+}
+input[type='password']{
+    width: 155px;
+    margin-left: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+

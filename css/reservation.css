@@ -1,0 +1,109 @@
+html{
+    scroll-behavior: smooth;
+}
+.main{
+ border-right: none;
+    height: 1200px;
+    background-color: white;
+   
+}
+
+
+.action{
+   
+    border: 2px solid;
+    border-radius: 10px;
+    height: 180px;
+    width: 850px;
+    margin-left: 40px;
+   
+    
+}
+
+.action h5{
+    background-color: #00AA00;
+    color: white;
+    text-align: center;
+}
+.action p{
+  
+    color: black;
+    text-align: center;
+    border-bottom: 1px solid
+}
+
+
+
+.button-tag {
+  margin-left: 120px;
+   
+}
+
+input[type=button]{
+    margin-right: 40px;
+    width: 150px;
+    font-style: italic;
+    color: darkgreen;
+}
+input[type=button]:hover{
+    border: 2px solid yellow;
+    box-shadow: 1px 2px;
+}
+
+.outer{
+    height: 900px;
+}
+
+
+.heading{
+    background-color: #888888;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    color: white;
+   
+}
+
+.logopart{
+    font-size: 12px;
+}
+.logopart label{
+    font-size: 13px;
+    color: black;
+}
+
+.booked{
+    margin-left: -90px;
+}
+
+ h4{
+    background-color: #888888;
+    width: 500px;
+    margin-left: 165px;
+    padding-bottom: 5px;
+    border-bottom-right-radius: 15px;
+    border-top-left-radius: 15px;
+    color: white;
+}
+
+table{
+    font-size: 12px;
+    height: 30px;
+}
+table tbody tr:first-child{
+    text-transform: uppercase;
+}
+
+#t2 tbody tr {
+    font-size: 10px;
+    text-align: justify;
+    color: darkslategrey;
+}
+
+
+
+
+
+#t2 tbody td:first-child{
+    width: 200px;
+}
+
